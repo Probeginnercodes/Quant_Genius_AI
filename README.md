@@ -205,13 +205,5 @@ MSc Artificial Intelligence
 Berlin School of Business and Innovation (BSBI)  
 Validated by University for the Creative Arts (UCA)
 
-------------------------------------------------------------
-13. NOTE TO EVALUATORS
-------------------------------------------------------------
-
-If the interactive UI fails due to dependency issues:
-- Refer to provided figures, tables, and CSV outputs
-- Review the screen recording of the working interface
-- Evaluate based on reproducible analytical results
 
 The project is fully assessable even without live execution.
